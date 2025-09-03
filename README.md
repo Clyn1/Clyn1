@@ -1,7 +1,7 @@
 # Hi there, I'm Clinton 👋  
 
 🌍 Based in Kisumu, Kenya  
-💻 Frontend Developer | React | Dart | Flutter | Rust Enthusiast  
+💻 React | Dart | Flutter | Rust Enthusiast  
 🎯 Passionate about building impactful tech solutions  
 
 ---

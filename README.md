@@ -1,7 +1,7 @@
 # Hi there, I'm Clinton 👋  
 
 🌍 Based in Kisumu, Kenya  
-💻 Frontend Developer | React | Dart | Flutter | Rust Enthusiast  
+💻 React | Dart | Flutter | Rust Enthusiast  
 🎯 Passionate about building impactful tech solutions  
 
 ---
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clynton254)  
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/Clintoonnn)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/clyn1)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Clyn1)  
 
 ---
 
@@ -36,6 +36,4 @@
 
 ## 📊 GitHub Streaks  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=clyn1&theme=radical&hide_border=true)  
-
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=Clyn1&theme=radical&hide_border=true)  

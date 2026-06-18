@@ -6,12 +6,11 @@
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)][https://www.linkedin.com/in/clintonochieng/](https://www.linkedin.com/in/clintonochieng/) 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/Clintoonnn)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Clyn1)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clintonochieng/)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/Clintoonnn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Clyn1)
 ---
 
 ## 🛠️ Skills  

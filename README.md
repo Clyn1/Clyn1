@@ -2,7 +2,7 @@
 
 🌍 Based in Kisumu, Kenya  
 💻 React | Dart | Flutter | Rust Enthusiast  
-🎯 Passionate about building impactful tech solutions  
+🎯 Passionate about building impactful tech solutions.
 
 ---
 
